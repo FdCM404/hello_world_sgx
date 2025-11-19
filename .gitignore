@@ -1,3 +1,5 @@
-enclave/conf/*.pem
-hello_world_sgx/enclave/conf/enclave_private_test.pem
+./enclave/conf/*.pem
+./hello_world_sgx/enclave/conf/enclave_private_test.pem
+./enclave/conf/*.pem
 *.o
+./enclave/conf/enclave_private_test.pem
