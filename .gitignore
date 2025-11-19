@@ -1,6 +1,7 @@
 # Ignore enclave private key and any test PEMs
-enclave/conf/enclave_private_test.pem
 enclave/conf/*.pem
 
 # Object files
 *.o
+
+Makefile
